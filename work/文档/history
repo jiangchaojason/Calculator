@@ -1,0 +1,332 @@
+1  #shell
+    2  sudo ln -snf /bin/bash /bin/sh
+    3  $ sudo mkdir -p /usr/lib/jvm
+    4  $ cd /usr/lib/jvm
+    5  sudo gedit /etc/profile
+    6  $ sudo apt-get install cpu-checker -y
+    7  $ sudo kvm-ok
+    8  INFO: /dev/kvm exists
+    9  KVM acceleration can be used
+   10  $ sudo apt-get install -y ubuntu-virt-server virtinst
+   11  $ sudo apt-get install -y ubuntu-virt-server virtinst;
+   12  $ sudo apt-get install virt-manager
+   13  sudo ln -snf /bin/bash /bin/sh
+   14  java -version
+   15  sudo apt-get install default-jre
+   16  java -version
+   17  adb -version
+   18  ddms
+   19  java -version
+   20  sudo ln -snf /bin/bash /bin/sh
+   21  $ sudo mkdir -p /usr/lib/jvm
+   22  mkdir -p /usr/lib/jvm
+   23  $ sudo mkdir -p /usr/lib/jvm
+   24  who
+   25  sudo ln -snf /bin/bash /bin/sh
+   26  $ sudo mkdir -p /usr/lib/jvm
+   27  $ cd /usr/lib/jvm
+   28  sudo gedit /etc/profile
+   29  who
+   30  whoami
+   31  w
+   32  uname
+   33  last
+   34  ls
+   35  chmod
+   36  help
+   37  hostname
+   38  cd jc
+   39  cd jdk
+   40  ls -l
+   41  cd..
+   42  cd . .
+   43  cd. .
+   44  cd:
+   45  cd :
+   46  cd ..
+   47  cd home
+   48  ls 
+   49  cd /home/jiangchao
+   50  cd /home/jiangchao/jc/jdk
+   51  ls
+   52  -l
+   53  sudo ln -snf /bin/bash /bin/sh
+   54  mkdir -p /usr/lib/jvm
+   55  sudo mkdir -p /usr/lib/jvm
+   56  cd /usr/lib/jvm
+   57  sudo tar -xzvf '/jc/jdk/java-1.7.0-openjdk-amd64.tar.gz' .
+   58  sudo tar -xzvf '/jdk/java-1.7.0-openjdk-amd64.tar.gz' .
+   59  sudo tar -xzvf '/home/jiangchao/jc/jdk/java-1.7.0-openjdk-amd64.tar.gz' .
+   60  sudo tar -xzvf '/home/jiangchao/jc/jdk/java-8-openjdk-amd64.tar.gz' .
+   61  sudo gedit /etc/profile
+   62  export JAVA_HOME=/usr/lib/jvm/java-1.7.0-openjdk-amd64
+   63  #export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
+   64  export JRE_HOME=${JAVA_HOME}/jre  
+   65  export CLASSPATH=.:${JAVA_HOME}/lib:${JRE_HOME}/lib  
+   66  export PATH=${JAVA_HOME}/bin:$PATH
+   67  java -version
+   68  adb -version
+   69  sudo apt-get update
+   70  sudo apt-get install  xfce4 vnc4server ssh meld subversion perl python samba system-config-samba git gitk meld subversion perl python openssh-server flex bison gperf build-essential curl zlib1g-dev g++-multilib g++-4.4-multilib libc6-dev-i386 lib32ncurses5-dev x11proto-core-dev libx11-dev lib32readline-gplv2-dev lib32z1-dev mingw32 tofrodos xsltproc libxml2-utils libswitch-perl libswitch-perl nautilus-open-terminal cpu-checker ubuntu-virt-server virtinst bridge-utils  virt-manager qemu -y
+   71  sudo apt-get remove samba-common smbclient samba -y
+   72  sudo apt-get install samba system-config-samba cifs-utils -y
+   73  sudo system-config-samba
+   74  java -version
+   75  sudo gedit /etc/profile 
+   76  export PATH=$HOME/home/jiangchao/tools/sdk_5.1/tools:$PATH
+   77  export PATH=$HOME/home/jiangchao/tools/sdk_5.1/platform-tools:$PATH
+   78  adb -version
+   79  sudo gedit /etc/profile
+   80  export PATH=$HOME/jiangchao/tools/sdk_5.1/tools:$PATH
+   81  export PATH=$HOME/jiangchao/tools/sdk_5.1/platform-tools:$PATH
+   82  sudo gedit /etc/profile
+   83  export PATH=$HOME/jiangchao/tools/sdk_5.1/tools:$PATH
+   84  export PATH=$HOME/jiangchao/tools/sdk_5.1/platform-tools:$PATH
+   85  java -version
+   86  adb -version
+   87  java -version
+   88  cd /home/jiangchao/jc/jdk
+   89  java -version
+   90  cd /usr/lib/jvm
+   91  /usr/lib/jvm$ sudo tar -xzvf '/home/jiangchao/jc/jdk/java-1.7.0-openjdk-amd64.tar.gz' .
+   92  sudo tar'/home/jiangchao/jc/jdk/java-1.7.0-openjdk-amd64.tar.gz' .
+   93  /usr/lib/jvm$ sudo tar -xzvf '/home/jiangchao/jc/jdk/java-8-openjdk-amd64.tar.gz' .
+   94  $ sudo mkdir -p /usr/lib/jvm
+   95  clear
+   96  sudo ln -snf /bin/bash /bin/sh
+   97  $ sudo mkdir -p /usr/lib/jvm
+   98  cd /usr/lib/jvm
+   99  java -version
+  100  sudo tar -xzvf '/home/jiangchao/jc/jdk/java-1.7.0-openjdk-amd64.tar.gz' .
+  101  sudo tar -xzvf '/home/jiangchao/jc/jdk/java-8-openjdk-amd64.tar.gz' .
+  102  sudo gedit /etc/profile
+  103  export JAVA_HOME=/usr/lib/jvm/java-1.7.0-openjdk-amd64 
+  104  #export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
+  105  export JRE_HOME=${JAVA_HOME}/jre  
+  106  export CLASSPATH=.:${JAVA_HOME}/lib:${JRE_HOME}/lib  
+  107  export PATH=${JAVA_HOME}/bin:$PATH
+  108  java -version
+  109  export PATH=$HOME/home/jiangchao/tools/sdk_5.1/tools:$PATH
+  110  export PATH=$HOME/home/jiangchao/tools/sdk_5.1/platform-tools:$PATH
+  111  adb -version
+  112  ddms
+  113  export PATH=$HOME/jiangchao/tools/sdk_5.1/tools:$PATH
+  114  export PATH=$HOME/jiangchao/tools/sdk_5.1/platform-tools:$PATH
+  115  adb -version
+  116  java -version
+  117  cd ..
+  118  cd /home/jiangchao/tools
+  119  export PATH=$HOME/jiangchao/tools/sdk_5.1/tools:$PATH
+  120  export PATH=$HOME/jiangchao/tools/sdk_5.1/platform-tools:$PATH
+  121  adb -version
+  122  sudo apt-get update
+  123  java -version
+  124  adb -version
+  125  sudo apt-get install android-tools-adb
+  126  adb -version
+  127  ddms
+  128  java -version
+  129  adb -version
+  130  java -version
+  131  java -version
+  132  adb -version
+  133  java -version
+  134  sudo apt-get install <openjdk-7-jre-headless>
+  135  sudo apt-get install openjdk-7-jre-headless
+  136  java -version
+  137  adb
+  138  java -version
+  139  adb -version
+  140  adb -version
+  141  ddms
+  142  sudo apt-get install androidsdk-ddms
+  143  ddms
+  144  adb
+  145  cd /etc/udev/rules.d
+  146  cd ..
+  147  $ sudo apt-get install cpu-checker -y
+  148  $ sudo kvm-ok
+  149  INFO: /dev/kvm exists
+  150  KVM acceleration can be used
+  151  $ sudo apt-get install cpu-checker -y
+  152  sudo apt-get install cpu-checker -y
+  153  sudo kvm-ok
+  154  sudo apt-get install -y ubuntu-virt-server virtinst
+  155  virt-convert
+  156  sudo apt-get install virt-manager
+  157  ps ax | grep libvirtd
+  158  which virt-manager
+  159  sudo apt-get install qemu
+  160  virt-manager
+  161  cd /home/jiangchao/jc/
+  162  ls -l example.sh
+  163  Bash script_file
+  164  ./example.sh
+  165  java -version
+  166  adb -version
+  167  ddms
+  168  clear
+  169  java -version
+  170  ls
+  171  ls -l
+  172  pwd
+  173  cat examples
+  174  cat jc
+  175  cd /home/jiangchao/jc
+  176  ls
+  177  cat example.sh
+  178  cd /home/jiangchao/jc
+  179  ./example
+  180  ./example.sh
+  181  cd /home/jiangchao/jc
+  182  ./ip
+  183  cd /home/jiangchao/jc
+  184  ./ip
+  185  cd /home/jiangchao/jc
+  186  ./ip
+  187  cd /home/jiangchao/jc
+  188  ./example
+  189  java -version
+  190  adb -version
+  191  tty
+  192  date
+  193  cal
+  194  cal 2017
+  195  history
+  196  man
+  197  java
+  198  -showversion
+  199  cd /home/jiangchao/tools
+  200  ls
+  201  sudo tar'/home/jiangchao/tools/android-studio.tar' .
+  202  sudo tar -xzvf '/home/jiangchao/tools/android-studio.tar' .
+  203  find/PATH -name "*.h"
+  204  cd ..
+  205  find/PATH -name "*.h"
+  206  cd /home/jiangchao/jc
+  207  find/PATH -name "*.h"
+  208  find /PATH -name "*.h"
+  209  find /jc -size +10000c -
+  210  find /jc -size +10000c
+  211  find /jc -size +100c
+  212  find /jdk -size +10000c
+  213  clear
+  214  cd /home/jiangchao/jc
+  215  sudo cp 51-android.rules /etc/udev/rules.d/51-android.rules
+  216  java -version
+  217  adb -version
+  218  find / -size +10000c
+  219  find / -mtime +2
+  220  cd /home/jiangchao/jc
+  221  find / -mtime +2
+  222  find /jdk
+  223  find -name '*.h'
+  224  grep 'hello'
+  225  grep magic /usr/src
+  226  find / -name 66.h
+  227  ./studio.sh
+  228  java -version
+  229  adb -version
+  230  sudo ./flash_tool.sh
+  231  sudo gedit /etc/profile 
+  232  cd /home/jiangchao/jc
+  233  touch a.txt
+  234  echo "hello world">>a.txt
+  235  sudo apt-add-repository ppa:paolorotolo/android-studio
+  236  sudo apt-get update
+  237  sudo apt-get install android-studio
+  238  ddms
+  239  adb version
+  240  java version
+  241  java -version
+  242  ./hello
+  243  chmod +x hello
+  244  ./hello
+  245  -clear
+  246  clear
+  247  sudo gdebi bcompare-3.3.13.18981_i386.deb
+  248  becompare
+  249  git
+  250  git --version
+  251  sudo apt-get install git
+  252  ls -al ~/.ssh
+  253  ls
+  254  ls -al
+  255  /.ssh
+  256  ssh-keygen -t rsa -b 4096 -C "jiangchaojason90@163.com"
+  257  eval "$(ssh-agent -s)"
+  258  ssh-add ~/.ssh/id_rsa
+  259  sudo apt-get install xclip
+  260  xclip -sel clip < ~/.ssh/id_rsa.pub
+  261  /.ssh/id_rsa.pub
+  262  $ sudo apt-get install xclip
+  263  # Downloads and installs xclip. If you don't have `apt-get`, you might need to use another installer (like `yum`)
+  264  $ xclip -sel clip < ~/.ssh/id_rsa.pub
+  265  # Copies the contents of the id_rsa.pub file to your clipboard
+  266  sudo apt-get install xclip
+  267  xclip -sel clip < ~/.ssh/id_rsa.pub
+  268  find -name '*.ssh'
+  269  find -name '.ssh'
+  270  cd ./.ssh
+  271  ls
+  272  more
+  273  cat .ssh
+  274  cat/.ssh
+  275  ls
+  276  more -c
+  277  pwd
+  278  cd id_rsa.pub
+  279  cat id_rsa.pub
+  280  javac hello.java
+  281  java hello
+  282  git add readme
+  283  git commit -m "first commit"
+  284  git add second
+  285  git commit
+  286  ./studio.sh
+  287  git
+  288  git -version
+  289  git --version              git version 1.9.1
+  290  gat -version
+  291  gat
+  292  hierarchyviewer
+  293  sudo apt-get install androidsdk-hierarchyviewer
+  294  hierarchyviewer
+  295  traceview
+  296  sudo apt-get install androidsdk-traceview
+  297  traceview
+  298  git init here
+  299  git init
+  300  git add second
+  301  git commit -m "second commit"
+  302  git log
+  303  git remote rm origin
+  304  git add -u
+  305  git status
+  306  git commit -m "上传第一个版本"
+  307  git add readme
+  308  sudo apt-get update
+  309  sudo apt-get install gdebi                              gdebi --version  0.9.5.3ubuntu3
+
+  310  sudo gdebi bcompare-3.3.13.18981_i386.deb
+  311  --- BEGIN LICENSE KEY ---
+  312  jp1e8CgYjJ4zf0KhAe8QTR25SFOyWGshdxeqq1esijXleGGAT-Sr0LeFQ
+  313  TvBkeMSRfqNx32mm8oiqLyaoaV5R+
+  314  ssh -T git@github.com
+  315  ssh -vT git@github.com
+  316  eval "$(ssh-agent -s)"
+  317  ssh-add
+  318  eval "$(ssh-agent -s)"
+  319  ssh -T git@github.com
+  320  ssh-keygen -p
+  321  git config --global user.name "jiangchao"
+  322  git config --global user.email "jiangchaojason90@163.com"
+  323  git remote add origin git@github.com:jiangchaojason/jc.git
+  324  git status
+  325  uiautomatorviewer
+  326  sudo apt-get install androidsdk-uiautomatorviewer
+  327  uiautomatorviewer
+  328  hierarchyviewer
+  329  java -version
+  330  which java
+
